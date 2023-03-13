@@ -155,3 +155,28 @@ The following is a list of all signals with names as in the include file `<signa
 - [sigaction() - IBM docs](https://www.ibm.com/docs/en/i/7.2?topic=ssw_ibm_i_72/apis/sigactn.htm)
 - [What is the difference between sigaction and signal?](https://stackoverflow.com/questions/231912/what-is-the-difference-between-sigaction-and-signal)
 - [What is sigaction in C?](https://jameshfisher.com/2017/01/13/c-sigaction/)
+
+
+## Author
+
+- [`@achrafelkhnissi`]() | Software Engineer Student
+
+    > Reach out to me if you need any help or have any questions.
+
+	<a href="mailto:achraf.elkhnissi@icloud.com">
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />
+	</a>
+	<span> * </span>
+    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
+    </a>
+    <span> * </span>
+    <a href="https://twitter.com/suprivada">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
+    </a>
+    <span> * </span>
+    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
+        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
+    </a>
+---
+
